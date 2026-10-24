@@ -1,0 +1,162 @@
+[
+  {
+    "stamp": "20261024T0337Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261024T0337Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261024T0337Z",
+    "published": "20261024T033900Z",
+    "subject": "Number boxes can now be spun by dragging left or right on a digit, with the mouse or a finger. The digit you press sets the step, and holding further out runs faster.",
+    "latest": false
+  },
+  {
+    "stamp": "20261024T0243Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261024T0243Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261024T0243Z",
+    "published": "20261024T024515Z",
+    "subject": "Number boxes can now be spun by dragging left or right on a digit, with the mouse or a finger. The digit you press sets the step, and holding further out runs faster.",
+    "latest": false
+  },
+  {
+    "stamp": "20261023T0125Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261023T0125Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261023T0125Z",
+    "published": "20261023T012714Z",
+    "subject": "Number boxes can now be spun by dragging left or right on a digit, with the mouse or a finger. The digit you press sets the step, and holding further out runs faster.",
+    "latest": false
+  },
+  {
+    "stamp": "20261022T1114Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261022T1114Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261022T1114Z",
+    "published": "20261022T111537Z",
+    "subject": "Number boxes can now be spun by dragging left or right on a digit, with the mouse or a finger. The digit you press sets the step, and holding further out runs faster.",
+    "latest": false
+  },
+  {
+    "stamp": "20261022T1003Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261022T1003Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261022T1003Z",
+    "published": "20261022T100429Z",
+    "subject": "Number boxes can now be spun by dragging left or right on a digit, with the mouse or a finger. The digit you press sets the step, and holding further out runs faster.",
+    "latest": false
+  },
+  {
+    "stamp": "20261022T0925Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261022T0925Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261022T0925Z",
+    "published": "20261022T092703Z",
+    "subject": "Number boxes can now be spun by dragging left or right on a digit, with the mouse or a finger. The digit you press sets the step, and holding further out runs faster.",
+    "latest": false
+  },
+  {
+    "stamp": "20261022T0852Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261022T0852Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261022T0852Z",
+    "published": "20261022T085318Z",
+    "subject": "Number boxes can now be spun by dragging left or right on a digit, with the mouse or a finger. The digit you press sets the step, and holding further out runs faster.",
+    "latest": false
+  },
+  {
+    "stamp": "20261022T0829Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261022T0829Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261022T0829Z",
+    "published": "20261022T083045Z",
+    "subject": "The desktop What-if panel now uses the same number boxes, step buttons and warning marks as the rest of the app.",
+    "latest": false
+  },
+  {
+    "stamp": "20261022T0813Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261022T0813Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261022T0813Z",
+    "published": "20261022T081512Z",
+    "subject": "The desktop What-if panel now uses the same number boxes, step buttons and warning marks as the rest of the app.",
+    "latest": false
+  },
+  {
+    "stamp": "20261022T0145Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261022T0145Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261022T0145Z",
+    "published": "20261022T014647Z",
+    "subject": "The desktop What-if panel now uses the same number boxes, step buttons and warning marks as the rest of the app.",
+    "latest": false
+  },
+  {
+    "stamp": "20261016T1456Z",
+    "version": "7.0.952",
+    "kind": "release",
+    "tag": "v20261016T1456Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261016T1456Z",
+    "published": "20261016T145751Z",
+    "subject": "Emergency fix on 7.0.951.",
+    "latest": true
+  },
+  {
+    "stamp": "20261015T1542Z",
+    "version": "7.0.951",
+    "kind": "release",
+    "tag": "v20261015T1542Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261015T1542Z",
+    "published": "20261015T154349Z",
+    "subject": "Cloud sync with Google Drive. Sign in once and your projects follow you across devices. Sync runs when you save, open, or return to the app. The sync dialog lists what was sent and received, and Diagnostics keeps the history.",
+    "latest": false
+  },
+  {
+    "stamp": "20261013T1842Z",
+    "version": "",
+    "kind": "release",
+    "tag": "v20261013T1842Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261013T1842Z",
+    "published": "20261013T184344Z",
+    "subject": "On the phone, tapping anywhere outside the open chart list closes it.",
+    "latest": false
+  },
+  {
+    "stamp": "20261013T1709Z",
+    "version": "",
+    "kind": "release",
+    "tag": "v20261013T1709Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261013T1709Z",
+    "published": "20261013T171028Z",
+    "subject": "Saving no longer fails with \"Browser storage is full\" because of the app's own backups. A save that does not fit drops the oldest backups first. Backups no longer copy earlier backups, so they are a third of the size.",
+    "latest": false
+  },
+  {
+    "stamp": "20261013T1646Z",
+    "version": "",
+    "kind": "release",
+    "tag": "v20261013T1646Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261013T1646Z",
+    "published": "20261013T164710Z",
+    "subject": "Usage stats are sent again. The app's launch report was never reaching the collector from Chrome.",
+    "latest": false
+  },
+  {
+    "stamp": "20261013T1438Z",
+    "version": "",
+    "kind": "release",
+    "tag": "v20261013T1438Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261013T1438Z",
+    "published": "20261013T143939Z",
+    "subject": "The app no longer hangs on its loading screen when opened over plain http from another device.",
+    "latest": false
+  }
+]
