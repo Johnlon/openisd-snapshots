@@ -1,0 +1,202 @@
+[
+  {
+    "stamp": "20261031T1615Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261031T1615Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261031T1615Z",
+    "published": "20261031T161653Z",
+    "subject": "Restore joined numeric controls with external warnings and model cues, improve digit and spinner entry, add Driver Info, and initialise a consistent Dummy PR.",
+    "latest": false
+  },
+  {
+    "stamp": "20261031T1605Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261031T1605Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261031T1605Z",
+    "published": "20261031T160613Z",
+    "subject": "Restore joined numeric controls with external warnings and model cues, improve digit and spinner entry, add Driver Info, and initialise a consistent Dummy PR.",
+    "latest": false
+  },
+  {
+    "stamp": "20261031T1555Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261031T1555Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261031T1555Z",
+    "published": "20261031T155707Z",
+    "subject": "Restore joined numeric controls with external warnings and model cues, improve digit and spinner entry, add Driver Info, and initialise a consistent Dummy PR.",
+    "latest": false
+  },
+  {
+    "stamp": "20261031T1518Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261031T1518Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261031T1518Z",
+    "published": "20261031T151928Z",
+    "subject": "Restore joined numeric controls with external warnings and model cues, improve digit and spinner entry, add Driver Info, and initialise a consistent Dummy PR.",
+    "latest": false
+  },
+  {
+    "stamp": "20261031T1514Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261031T1514Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261031T1514Z",
+    "published": "20261031T151610Z",
+    "subject": "Restore joined numeric controls with external warnings and model cues, improve digit and spinner entry, add Driver Info, and initialise a consistent Dummy PR.",
+    "latest": false
+  },
+  {
+    "stamp": "20261031T1510Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261031T1510Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261031T1510Z",
+    "published": "20261031T151210Z",
+    "subject": "Restore joined numeric controls with external warnings and model cues, improve digit and spinner entry, add Driver Info, and initialise a consistent Dummy PR.",
+    "latest": false
+  },
+  {
+    "stamp": "20261031T1411Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261031T1411Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261031T1411Z",
+    "published": "20261031T141316Z",
+    "subject": "Restore joined numeric controls with external warnings and model cues, improve digit and spinner entry, add Driver Info, and initialise a consistent Dummy PR.",
+    "latest": false
+  },
+  {
+    "stamp": "20261031T0752Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261031T0752Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261031T0752Z",
+    "published": "20261031T075336Z",
+    "subject": "Restore joined numeric controls with external warnings and model cues, improve digit and spinner entry, add Driver Info, and initialise a consistent Dummy PR.",
+    "latest": false
+  },
+  {
+    "stamp": "20261031T0741Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261031T0741Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261031T0741Z",
+    "published": "20261031T074227Z",
+    "subject": "Restore joined numeric controls with external warnings and model cues, improve digit and spinner entry, add Driver Info, and initialise a consistent Dummy PR.",
+    "latest": false
+  },
+  {
+    "stamp": "20261031T0728Z",
+    "version": "",
+    "kind": "snap",
+    "tag": "snap-20261031T0728Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/snap-20261031T0728Z",
+    "published": "20261031T072951Z",
+    "subject": "Restore joined numeric controls with external warnings and model cues, improve digit and spinner entry, add Driver Info, and initialise a consistent Dummy PR.",
+    "latest": false
+  },
+  {
+    "stamp": "20261025T2233Z",
+    "version": "7.0.956",
+    "kind": "release",
+    "tag": "v20261025T2233Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261025T2233Z",
+    "published": "20261025T223455Z",
+    "subject": "The usage report now includes bundled driver identity on project opens and saves.",
+    "latest": true
+  },
+  {
+    "stamp": "20261025T2026Z",
+    "version": "7.0.955",
+    "kind": "release",
+    "tag": "v20261025T2026Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261025T2026Z",
+    "published": "20261025T202730Z",
+    "subject": "Touch scrolling over a number spinner no longer changes its value by accident. Spinner taps and holds continue to adjust the value.",
+    "latest": false
+  },
+  {
+    "stamp": "20261025T1357Z",
+    "version": "7.0.954",
+    "kind": "release",
+    "tag": "v20261025T1357Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261025T1357Z",
+    "published": "20261025T135851Z",
+    "subject": "OpenISD now updates stale phone installs automatically and includes a recovery page that preserves projects.",
+    "latest": false
+  },
+  {
+    "stamp": "20261025T0901Z",
+    "version": "7.0.953",
+    "kind": "release",
+    "tag": "v20261025T0901Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261025T0901Z",
+    "published": "20261025T090250Z",
+    "subject": "Storage warnings describe whether the browser granted persistent storage, using a separate message when the API is unsupported.",
+    "latest": false
+  },
+  {
+    "stamp": "20261016T1456Z",
+    "version": "7.0.952",
+    "kind": "release",
+    "tag": "v20261016T1456Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261016T1456Z",
+    "published": "20261016T145751Z",
+    "subject": "Emergency fix on 7.0.951.",
+    "latest": false
+  },
+  {
+    "stamp": "20261015T1542Z",
+    "version": "7.0.951",
+    "kind": "release",
+    "tag": "v20261015T1542Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261015T1542Z",
+    "published": "20261015T154349Z",
+    "subject": "Cloud sync with Google Drive. Sign in once and your projects follow you across devices. Sync runs when you save, open, or return to the app. The sync dialog lists what was sent and received, and Diagnostics keeps the history.",
+    "latest": false
+  },
+  {
+    "stamp": "20261013T1842Z",
+    "version": "",
+    "kind": "release",
+    "tag": "v20261013T1842Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261013T1842Z",
+    "published": "20261013T184344Z",
+    "subject": "On the phone, tapping anywhere outside the open chart list closes it.",
+    "latest": false
+  },
+  {
+    "stamp": "20261013T1709Z",
+    "version": "",
+    "kind": "release",
+    "tag": "v20261013T1709Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261013T1709Z",
+    "published": "20261013T171028Z",
+    "subject": "Saving no longer fails with \"Browser storage is full\" because of the app's own backups. A save that does not fit drops the oldest backups first. Backups no longer copy earlier backups, so they are a third of the size.",
+    "latest": false
+  },
+  {
+    "stamp": "20261013T1646Z",
+    "version": "",
+    "kind": "release",
+    "tag": "v20261013T1646Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261013T1646Z",
+    "published": "20261013T164710Z",
+    "subject": "Usage stats are sent again. The app's launch report was never reaching the collector from Chrome.",
+    "latest": false
+  },
+  {
+    "stamp": "20261013T1438Z",
+    "version": "",
+    "kind": "release",
+    "tag": "v20261013T1438Z",
+    "url": "https://github.com/Johnlon/openisd/releases/tag/v20261013T1438Z",
+    "published": "20261013T143939Z",
+    "subject": "The app no longer hangs on its loading screen when opened over plain http from another device.",
+    "latest": false
+  }
+]

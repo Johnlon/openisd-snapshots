@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OpenISD releases</title>
+<link rel="icon" href="../icon.svg" type="image/svg+xml">
+<style>
+  body { margin: 0; background: #0b0e13; color: #c7d3df; font: 15px/1.5 system-ui, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 20px 16px 48px; }
+  h1 { font-size: 20px; color: #e6edf3; margin: 0 0 6px; }
+  p { margin: 0 0 10px; }
+  a { color: #4fb0ff; }
+  .warn { color: #e0b050; }
+  .rows { list-style: none; margin: 16px 0 0; padding: 0; }
+  .row { position: relative; display: grid; grid-template-columns: 11em 1fr auto auto; gap: 4px 14px; align-items: baseline;
+         padding: 12px 8px; border-top: 1px solid #2b3a49; }
+  .row:hover { background: #1b2230; }
+  .when { color: #e6edf3; }
+  .ver { color: #e6edf3; margin-right: 4px; }
+  .tag { font-size: 11px; color: #4fb0ff; border: 1px solid #4fb0ff; border-radius: 3px; padding: 0 5px; margin-left: 6px; }
+  .launch::after { content: ""; position: absolute; inset: 0; }
+  .gh { position: relative; z-index: 1; }
+  @media (max-width: 560px) { .row { grid-template-columns: 1fr auto auto; } .subject { grid-column: 1 / -1; order: 3; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>OpenISD releases</h1>
+  <p>Every release stays here, exactly as it was published.</p>
+  <p><a href="../snap/">Snapshot builds</a> · <a href="https://test.openisd.app/">Newest snapshot (test.openisd.app)</a> · <a href="https://openisd.app/">OpenISD</a></p>
+  <ul class="rows">
+    <li class="row"><time class="when" datetime="20261025T2233Z" data-stamp="20261025T2233Z">20261025T2233Z</time><span class="subject"><strong class="ver">7.0.956</strong> The usage report now includes bundled driver identity on project opens and saves. <span class="tag">Latest</span></span><a class="launch" href="20261025T2233Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/v20261025T2233Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261025T2026Z" data-stamp="20261025T2026Z">20261025T2026Z</time><span class="subject"><strong class="ver">7.0.955</strong> Touch scrolling over a number spinner no longer changes its value by accident. Spinner taps and holds continue to adjust the value.</span><a class="launch" href="20261025T2026Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/v20261025T2026Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261025T1357Z" data-stamp="20261025T1357Z">20261025T1357Z</time><span class="subject"><strong class="ver">7.0.954</strong> OpenISD now updates stale phone installs automatically and includes a recovery page that preserves projects.</span><a class="launch" href="20261025T1357Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/v20261025T1357Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261025T0901Z" data-stamp="20261025T0901Z">20261025T0901Z</time><span class="subject"><strong class="ver">7.0.953</strong> Storage warnings describe whether the browser granted persistent storage, using a separate message when the API is unsupported.</span><a class="launch" href="20261025T0901Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/v20261025T0901Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261016T1456Z" data-stamp="20261016T1456Z">20261016T1456Z</time><span class="subject"><strong class="ver">7.0.952</strong> Emergency fix on 7.0.951.</span><a class="launch" href="20261016T1456Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/v20261016T1456Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261015T1542Z" data-stamp="20261015T1542Z">20261015T1542Z</time><span class="subject"><strong class="ver">7.0.951</strong> Cloud sync with Google Drive. Sign in once and your projects follow you across devices. Sync runs when you save, open, or return to the app. The sync dialog lists what was sent and received, and Diagnostics keeps the history.</span><a class="launch" href="20261015T1542Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/v20261015T1542Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261013T1842Z" data-stamp="20261013T1842Z">20261013T1842Z</time><span class="subject">On the phone, tapping anywhere outside the open chart list closes it.</span><a class="launch" href="20261013T1842Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/v20261013T1842Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261013T1709Z" data-stamp="20261013T1709Z">20261013T1709Z</time><span class="subject">Saving no longer fails with &quot;Browser storage is full&quot; because of the app's own backups. A save that does not fit drops the oldest backups first. Backups no longer copy earlier backups, so they are a third of the size.</span><a class="launch" href="20261013T1709Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/v20261013T1709Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261013T1646Z" data-stamp="20261013T1646Z">20261013T1646Z</time><span class="subject">Usage stats are sent again. The app's launch report was never reaching the collector from Chrome.</span><a class="launch" href="20261013T1646Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/v20261013T1646Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261013T1438Z" data-stamp="20261013T1438Z">20261013T1438Z</time><span class="subject">The app no longer hangs on its loading screen when opened over plain http from another device.</span><a class="launch" href="20261013T1438Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/v20261013T1438Z">GitHub</a></li>
+  </ul>
+</main>
+<script src="../dates.js"></script>
+</body>
+</html>
