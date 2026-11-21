@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OpenISD snapshot builds</title>
+<link rel="icon" href="../icon.svg" type="image/svg+xml">
+<style>
+  body { margin: 0; background: #0b0e13; color: #c7d3df; font: 15px/1.5 system-ui, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 20px 16px 48px; }
+  h1 { font-size: 20px; color: #e6edf3; margin: 0 0 6px; }
+  p { margin: 0 0 10px; }
+  a { color: #4fb0ff; }
+  .warn { color: #e0b050; }
+  .rows { list-style: none; margin: 16px 0 0; padding: 0; }
+  .row { position: relative; display: grid; grid-template-columns: 11em 1fr auto auto; gap: 4px 14px; align-items: baseline;
+         padding: 12px 8px; border-top: 1px solid #2b3a49; }
+  .row:hover { background: #1b2230; }
+  .when { color: #e6edf3; }
+  .ver { color: #e6edf3; margin-right: 4px; }
+  .tag { font-size: 11px; color: #4fb0ff; border: 1px solid #4fb0ff; border-radius: 3px; padding: 0 5px; margin-left: 6px; }
+  .launch::after { content: ""; position: absolute; inset: 0; }
+  .gh { position: relative; z-index: 1; }
+  @media (max-width: 560px) { .row { grid-template-columns: 1fr auto auto; } .subject { grid-column: 1 / -1; order: 3; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>OpenISD snapshot builds</h1>
+  <p>A snapshot build is a tested build of the latest work, made along the way. It is not a release.</p>
+  <p class="warn">Snapshot builds may upgrade your saved data. A backup is taken first.</p>
+  <p><a href="../v/">Releases</a> · <a href="https://test.openisd.app/">Newest snapshot (test.openisd.app)</a> · <a href="https://openisd.app/">OpenISD</a></p>
+  <ul class="rows">
+    <li class="row"><time class="when" datetime="20261121T0421Z" data-stamp="20261121T0421Z">20261121T0421Z</time><span class="subject">The driver dimensions drawing uses full field names and shows each available measurement in your chosen unit.</span><a class="launch" href="20261121T0421Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/snap-20261121T0421Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261121T0351Z" data-stamp="20261121T0351Z">20261121T0351Z</time><span class="subject">Basket Diameter keeps the previous value when you enter an impossible size. Imported driver dimensions keep the values in the file and show data-quality warnings beside impossible or unusual values.</span><a class="launch" href="20261121T0351Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/snap-20261121T0351Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261121T0241Z" data-stamp="20261121T0241Z">20261121T0241Z</time><span class="subject">Physics-based Iso-Barik pairs for new designs, with an option for WinISD's numbers.</span><a class="launch" href="20261121T0241Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/snap-20261121T0241Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261121T0138Z" data-stamp="20261121T0138Z">20261121T0138Z</time><span class="subject">Physics-based Iso-Barik pairs for new designs, with an option for WinISD's numbers.</span><a class="launch" href="20261121T0138Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/snap-20261121T0138Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261121T0029Z" data-stamp="20261121T0029Z">20261121T0029Z</time><span class="subject">Physics-based Iso-Barik pairs for new designs, with an option for WinISD's numbers.</span><a class="launch" href="20261121T0029Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/snap-20261121T0029Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261120T2342Z" data-stamp="20261120T2342Z">20261120T2342Z</time><span class="subject">Physics-based Iso-Barik pairs for new designs, with an option for WinISD's numbers.</span><a class="launch" href="20261120T2342Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/snap-20261120T2342Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261120T1428Z" data-stamp="20261120T1428Z">20261120T1428Z</time><span class="subject">Physics-based Iso-Barik pairs for new designs, with an option for WinISD's numbers.</span><a class="launch" href="20261120T1428Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/snap-20261120T1428Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261120T1243Z" data-stamp="20261120T1243Z">20261120T1243Z</time><span class="subject">Physics-based Iso-Barik pairs for new designs, with an option for WinISD's numbers.</span><a class="launch" href="20261120T1243Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/snap-20261120T1243Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261120T1208Z" data-stamp="20261120T1208Z">20261120T1208Z</time><span class="subject">'Iso-Barik at default settings drew SPL 3 dB too high and excursion 41% too big; with 2 or more drivers the Xmax-limited SPL chart was 6 dB low. Both fixed.'</span><a class="launch" href="20261120T1208Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/snap-20261120T1208Z">GitHub</a></li>
+    <li class="row"><time class="when" datetime="20261120T0125Z" data-stamp="20261120T0125Z">20261120T0125Z</time><span class="subject">'Iso-Barik at default settings drew SPL 3 dB too high and excursion 41% too big; with 2 or more drivers the Xmax-limited SPL chart was 6 dB low. Both fixed.'</span><a class="launch" href="20261120T0125Z/">Launch</a><a class="gh" href="https://github.com/Johnlon/openisd/releases/tag/snap-20261120T0125Z">GitHub</a></li>
+  </ul>
+</main>
+<script src="../dates.js"></script>
+</body>
+</html>
